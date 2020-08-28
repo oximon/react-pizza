@@ -114,7 +114,7 @@ const Cart = () => {
                   onMinus={() => minusCartItem(item.id)}
                   onPlus={() => plusCartItem(item.id)}
                   onRemove={() => removeItemsById(item.id)}
-                  count={itemsCount}
+									count={items[item.id].length}
                 />
               ))}
             </div>
