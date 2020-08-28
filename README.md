@@ -5,7 +5,9 @@
 
 ## стек: React + Redux
 
-![Иллюстрация к проекту](https://puu.sh/GmBNM/f887b561cd.png)
+![Иллюстрация к проекту - главная](https://puu.sh/GmBNM/f887b561cd.png)
+![Иллюстрация к проекту - корзина](https://puu.sh/GmBX4/81ac050ab8.png)
+
 
 ### Установка и запуск
 
